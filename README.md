@@ -4,7 +4,7 @@ This is a test repo for the [Git Large File Storage](https://git-lfs.github.com/
 
 ## Install the git-lfs extension
 
-Find the download link for a binary distribution of your working platform from the [official website](https://git-lfs.github.com/). For OS X users with packing managers, simply use `brew install git-lfs` or `port install git-lfs`.
+Find the download link for a binary distribution of your working platform from the [official website](https://git-lfs.github.com/). For OS X users with package managers, simply use `brew install git-lfs` or `port install git-lfs`.
 
 After installing the extension, a first-time setup should be done with the command `git lfs install`. Probably there's some configuration magic for git-lfs to work with git automatically.
 
